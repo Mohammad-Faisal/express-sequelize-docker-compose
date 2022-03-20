@@ -1,4 +1,7 @@
-## How to Use Docker for Local Development with ExpressJS and MySQL
+## How to Use Docker for Local Development with ExpressJS and Database
+
+Get the full article here
+https://www.mohammadfaisal.dev/blog/express-database-docker-compose
 
 Today we will learn how we can create a full-fledged backend application using NodeJS and any Database (Postgres/MySQL etc).
 
